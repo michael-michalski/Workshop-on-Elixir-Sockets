@@ -1,4 +1,4 @@
-# FunWithSockets
+# Elixir sockets workshop
 
 This is a small workshop that gets you up to speed with sockets in Elixir.
 
